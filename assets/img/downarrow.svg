@@ -1,0 +1,8 @@
+<svg version="1.1"
+	 baseProfile="full"
+	 viewBox="0 0 50 50"
+	 xmlns="http://www.w3.org/2000/svg">
+
+	 <path d="M 10 10 L 10 30 L 5 30 L 15 40 L 25 30 L 20 30 L 20 10 L 10 10" fill="#333" stroke="#333433" stroke-width="1"/>
+	
+</svg>

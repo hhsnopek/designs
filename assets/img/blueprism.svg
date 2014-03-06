@@ -1,0 +1,14 @@
+<svg version="1.1"
+	 baseProfile="full"
+	 viewBox="0 0 100 100"
+	 xmlns="http://www.w3.org/2000/svg">
+
+
+	 <path d="M 12 10 L 22 13 L 22 31 M 22 13 L 32 10 L 12 10 L 22 31 L 32 10 L 12 10 " fill="#1aa9d9" stroke="#0099cc" stroke-width=".35" />
+
+	 <path d="M 12 10 L 22 31 L 22 13 L 12 10 " stroke="#0099cc" stroke-width=".35" fill="#0786b0" />
+
+	 <path id="shad" d=" M 5 25 L 21 32 L 8 31 L 5 25" stroke="none" stroke-width="1" fill="#777" />
+
+
+</svg>

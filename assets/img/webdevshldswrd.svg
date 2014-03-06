@@ -1,0 +1,32 @@
+<svg version="1.1"
+	 baseProfile="full"
+	 viewBox="0 0 10000 10000"
+	 xmlns="http://www.w3.org/2000/svg">
+
+	 <!--
+	 	o==Js}==========>
+	 -->
+	 
+	 <path d="" stroke="" stroke-width="" fill="" />
+	 <text x="" y="" font-size="" stroke="" >Js}</text>
+
+	 <!--
+	 	O==[css3]=======>
+	 -->
+
+	 <path d="" stroke="" stroke-width="" fill="" />
+
+	 <!--
+	 	________
+	   |        |
+	   |  HTML  |
+	   |        |
+	    \   5  /
+	     \____/
+
+
+	 <path d=" M 3500 3500 L 3500 4500 L 4500 6500 " stroke="#000" stroke-width="5" fill="none" />
+
+	 -->
+
+</svg>

@@ -1,0 +1,91 @@
+<svg version="1.1"
+	 baseProfile="full"
+	 viewBox="0 0 1000 1000"
+	 xmlns="http://www.w3.org/2000/svg">
+
+	 <!-- sky -->
+
+	 <path d="M 0 0 L 0 900 L 1000 900 L 1000 0 L 0 0 " stroke="#333" stroke-width="1" fill="none" />
+
+	 <!--  cables  -->
+
+	 	<!--  sloped cables  -->
+
+	 <path d="M 200 711 C 200 711 350 680 450 550 M 590 550 C 590 550 690 680 840 711 " stroke="#333" stroke-width="2" fill="none" />
+
+	 <path d="M 490 550 C 520 560 550 550 550 550  " stroke="#333" stroke-width="2" fill="none" />
+
+	 		<!--  vertical cables  -->
+
+	 <path d="M 300 711 L 300 673 M 350 711 L 350 643 M 405 711 L 405 600" stroke="#333" stroke-width="2" fill="none" />
+
+	 <path d="M 640 711 L 640 602 M 690 711 L 690 643 M 732 711 L 732 669 M 774 711 L 774 690 " stroke="#333" stroke-width="2" fill="none" />	 <!--  hills  -->
+
+	 	<!-- dirt/inner hill  -->
+
+	 <path d="M 280 713 L 280 870.5 M 760 713 L 760 871.5 " stroke="#333" stroke-width="1" fill="none" />
+
+	 	<!--  grass hill  -->
+
+	 <path d="M 0 714 C 250 720 140 780 320 900 L 0 900 0 714 " stroke="#333" stroke-width="1" fill="none" />
+
+	 <path d="M 1000 714 C 800 750 800 850 730 900 L 1000 900 " stroke="#333" stroke-width="1" fill="none" />
+
+
+	 <!--  bridge  -->
+
+	 	<!-- pillars -->
+
+	 <path d="
+	 	M 450 550  L 450 870 L 445 870 L 445 900 L 495 900 L 495 870 L 490 870 L 490 550 L 450 550
+	 	M 450 870 L 490 870
+	 	
+	 	M 550 550 L 550 870 L 545 870 L 545 900 L 595 900 L 595 870 L 590 870 L 590 550 L 550 550
+	 	M 550 870 L 590 870
+	 	 " stroke="#333" stroke-width="1.7" fill="none" />
+
+	 <!--  cars  -->
+
+		 <!--  car1  -->
+
+		 <!--  car2  -->
+
+	 <!--  road  -->
+
+	 <path d="M 0 711 L 450 711 M 490 711 L 550 711 M 590 711 L 1000 711 " stroke="#333" stroke-width="3" fill="none" />
+
+	 <path d="M 0 712 L 450 712 M 490 712 L 550 712 M 590 712 L 1000 712 " stroke="#333" stroke-width="3" fill="none" />
+	
+	 <!--  clouds  -->
+
+	 	<!-- cloud  -->
+	 		<path d="M 233 310 L 252 310" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="230" cy="300" r="10" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="250" cy="295" r="15" stroke="#333" stroke-width="1" fill="none" />
+	 		<path d="M 230 310 L 252.5 310 L 236 294 L 236 292 L 230 291 L 233 300 L 230 310" stroke="none" stroke-width="1" fill="#EEE" />
+	 		<path d="M 230 310 L 251 310" stroke="#333" stroke-width=".5" fill="none" />
+
+	 	<!--  cloud1  -->
+	 		<path d="M 381 350 L 433 350" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="384" cy="337" r="13" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="410" cy="328" r="21" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="430" cy="335" r="15" stroke="#333" stroke-width="1" fill="none" />
+	 		<path d=" M 381 349.5 L 433 349.5 L 432 320.6 L 428 321 L 420 330 L 410 326 L 389.5 325 L 393 330 L 381 349" stroke="none" stroke-width="1" fill="#EEE" />
+
+
+		<!--  cloud2  -->
+			<path d="M 600 250 L 670 250" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="600" cy="235" r="15" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="627" cy="228" r="20" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="650" cy="230" r="18" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="670.5" cy="234" r="16" stroke="#333" stroke-width="1" fill="none" />
+			<path d="M 599 249.5 L 669 249.5 L 673 228 L 663 225 L 664 220 L 660 218 L 643 223 L 640 214 L 610 230 L 607.5 222 L 600 225 L 599 249.5" stroke="none" stroke-width="1" fill="#EEE" />
+
+		<!--  cloud3  -->
+			<path d="M 781 400 L 833 400" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="784" cy="387" r="13" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="810" cy="378" r="21" stroke="#333" stroke-width="1" fill="none" />
+	 		<circle cx="830" cy="385" r="15" stroke="#333" stroke-width="1" fill="none" />
+	 		<path d=" M 781 399.5 L 833 399.5 L 832 370.6 L 828 371 L 820 380 L 810 376 L 789.5 375 L 793 370 L 781 399" stroke="none" stroke-width="1" fill="#EEE" />
+
+</svg>
